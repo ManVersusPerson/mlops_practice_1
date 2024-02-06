@@ -1,0 +1,6 @@
+[core]
+    remote = ssh-storage
+['remote "ssh-storage"']
+    url = ssh://artyom@172.18.239.149/opt/datasets
+    user = artyom
+    port = 22
